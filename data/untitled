@@ -1,0 +1,47 @@
+
+
+links.csv
+movieId,imdbId,tmdbId
+
+
+movies.csv
+movieId,title,genres
+
+ratings.csv
+userId,movieId,rating,timestamp
+
+
+tags.csv
+userId,movieId,tag,timestamp
+
+
+{
+  "overview": "After the coal mine he works at closes and his father commits suicide, a Finnish man leaves for the city to make a living but there, he is framed and imprisoned for various crimes.",
+  "popularity": 11.904,
+  "original_title": "Ariel",
+  "runtime": 73,
+  "release_date": "1988-10-21",
+  "vote_average": 7.046,
+  "vote_count": 270,
+  "status": "Released",
+  "tagline": "",
+  "spoken_languages": "fi",
+  "cast": "Turo Pajala|Susanna Haavisto|Matti Pellonpää|Eetu Hilkamo|Erkki Pajala",
+  "id": 2
+}
+
+https://github.com/inboxpraveen/movie-recommendation-system
+https://github.com/NIKsaurabh/Movie-Recommendation-Web-App
+https://github.com/afaqueumer/TMDBAI
+
+
+Unique users
+610
+
+unique movies
+9742
+
+predict ratings ?? 
+
+
+
