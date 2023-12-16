@@ -18,6 +18,7 @@ Contents of the directory:
     - Dockerfile
 
 To run the app
+- clone the directory to local
 - cd to this directory
 - Build docker image by running
      `docker build -t recommendation .`
